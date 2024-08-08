@@ -1,5 +1,5 @@
 # Streamlit-EDA-1
-Simple EDA Project using Streamlit.
+Simple EDA Project using Streamlit. **WORK IN PROGRESS**
 
 - Takes in `.csv` file as input
 - Filters Data according to user's requirement
